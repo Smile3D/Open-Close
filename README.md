@@ -14,6 +14,7 @@
 3. effect: 'none'
 
 Дополнительные опции:
+
 Скрыть дроп при клике снаружи
 1. hideOnClickOutside: true
 
