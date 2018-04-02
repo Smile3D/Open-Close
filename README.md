@@ -5,3 +5,8 @@
 
 Переключение по
 1. event: 'hover'
+
+Эффект анимации
+1. effect: 'slide'
+2. effect: 'fade'
+3. effect: 'none'
