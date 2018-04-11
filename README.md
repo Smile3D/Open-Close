@@ -1,25 +1,25 @@
 # Open-Close
 Селектор блока
-1. .open-close
+.open-close
 
 Селектор элемента-открывателя
-1. .opener
+.opener
 
 Селектор слайдящегося блока
-1. .slide
+.slide
 
 Эффект анимации
-1. effect: 'slide'
-2. effect: 'fade'
-3. effect: 'none'
+effect: 'slide'
+effect: 'fade'
+effect: 'none'
 
 Дополнительные опции:
 
 Скрыть дроп при клике снаружи
-1. hideOnClickOutside: true
+hideOnClickOutside: true
 
 Активный класс
-1. active
+active
 
 Переключение по
-1. event: 'hover'
+event: 'hover'
