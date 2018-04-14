@@ -1,14 +1,14 @@
 # Open-Close
-Селектор блока
-.open-close
+Селектор блока<br>
+<code>.open-close</code>
 
-Селектор элемента-открывателя
-.opener
+Селектор элемента-открывателя</br>
+<code>.opener</code><br>
 
 Селектор слайдящегося блока
-.slide
+<code>.slide</code><br>
 
-Эффект анимации
+Эффект анимации<br>
 <code>effect: 'slide'</code><br>
 <code>effect: 'fade'</code><br>
 <code>effect: 'none'</code><br>
@@ -18,8 +18,8 @@
 Скрыть дроп при клике снаружи
 hideOnClickOutside: true
 
-Активный класс
-active
+Активный класс<br>
+<code>active</code>
 
-Переключение по
-event: 'hover'
+Переключение по<br>
+<code>event: 'hover'</code>
