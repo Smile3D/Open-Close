@@ -9,9 +9,9 @@
 .slide
 
 Эффект анимации
-effect: 'slide'
-effect: 'fade'
-effect: 'none'
+<code>effect: 'slide'</code><br>
+<code>effect: 'fade'</code><br>
+<code>effect: 'none'</code><br>
 
 Дополнительные опции:
 
