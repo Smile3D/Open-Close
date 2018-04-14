@@ -13,7 +13,7 @@
 <code>effect: 'fade'</code><br>
 <code>effect: 'none'</code><br>
 
-Дополнительные опции:
+<strong><h3>Дополнительные опции:</h3></strong>
 
 Скрыть дроп при клике снаружи
 hideOnClickOutside: true
