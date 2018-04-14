@@ -15,8 +15,8 @@
 
 <strong><h3>Дополнительные опции:</h3></strong>
 
-Скрыть дроп при клике снаружи
-hideOnClickOutside: true
+Скрыть дроп при клике снаружи<br>
+<code>hideOnClickOutside: true</code>
 
 Активный класс<br>
 <code>active</code>
